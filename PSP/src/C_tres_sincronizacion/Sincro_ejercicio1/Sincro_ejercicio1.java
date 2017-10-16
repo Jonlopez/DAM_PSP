@@ -24,7 +24,7 @@ public class Sincro_ejercicio1 {
         {
             arraya[i]= new Aumentar(incre);
         }
-        for(int i=0;i<numh;i++)
+        for(int i=0;i<numh;i++)            
         {
             arraya[i].start();
         }
